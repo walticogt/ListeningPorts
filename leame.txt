@@ -1,0 +1,2 @@
+Abre el PowerShell no necesitas ser administrador
+ejecuta directamente ./ListeningPorts.ps1
